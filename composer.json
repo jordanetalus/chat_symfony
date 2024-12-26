@@ -1,0 +1,15 @@
+{
+    "name": "hp/chat-app",
+    "autoload": {
+        "psr-4": {
+            "Hp\\ChatApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jordanetalus",
+            "email": "jordanefossitalla@gmail.com"
+        }
+    ],
+    "require": {}
+}
